@@ -20,7 +20,7 @@
 
     <!-- Titre -->
     <span class="navbar-brand fs-3 fw-bold">
-      La Sale Fourchette
+      La Sale Fourchette a Théo 
     </span>
 
     <!-- bouton -->
