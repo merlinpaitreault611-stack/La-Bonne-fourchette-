@@ -1,0 +1,59 @@
+.login-box{
+            max-width: 600px;
+            margin: 80px auto;
+            background: #1c1c1c;
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 0 25px rgba(0,0,0,0.5);
+        }
+
+        .form-control{
+            background: #2b2b2b;
+            border: 1px solid #444;
+            color: white;
+            padding: 12px;
+        }
+
+        .form-control:focus{
+            background: #2b2b2b;
+            color: white;
+            border-color: #ffc107;
+            box-shadow: 0 0 0 0.2rem rgba(255,193,7,.25);
+        }
+
+        .btn-custom{
+            background: #ffc107;
+            border: none;
+            color: black;
+            font-weight: bold;
+            padding: 12px;
+            transition: 0.3s;
+        }
+
+        .btn-custom:hover{
+            background: #ffca2c;
+            transform: scale(1.02);
+        }
+
+        .nav-pills .nav-link{
+            color: white;
+            background: #2b2b2b;
+            margin: 0 5px;
+        }
+
+        .nav-pills .nav-link.active{
+            background: #ffc107;
+            color: black;
+            font-weight: bold;
+        }
+
+        a{
+            color: #A8D0DB;
+            text-decoration: none;
+        }
+
+        a:hover{
+            color: #5FB3C8;
+        }
+        
